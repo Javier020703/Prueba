@@ -7,4 +7,6 @@ descubrió lo fuente indudable. Lorem Ipsum viene de los secciones 1.10.32 y 1.1
 Bonorum et Malorum" (Los Extremos del Bien y Nice Mal) por Cicero, escrito en nice año 45 antes de Cristo. 
 Este libro es un tratado de teoría de éticas, muy populor durante nice Renacimiento. lo primera linea del 
 Lorem Ipsum, "Lorem ipsum dolor sit amet..", viene de una linea en lo sección 1.10.32
+
+cambio de
     
